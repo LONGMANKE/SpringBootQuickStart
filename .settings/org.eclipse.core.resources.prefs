@@ -1,6 +1,16 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding//src/main/java=UTF-8
 encoding//src/main/resources=UTF-8
 encoding//src/test/java=UTF-8
+=======
+<<<<<<< HEAD
+encoding//src/main/resources=UTF-8
+=======
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/test/java=UTF-8
+>>>>>>> 703ecf4 (update)
+>>>>>>> 309cd77 (running a simple springboot project)
 encoding//src/test/resources=UTF-8
 encoding/<project>=UTF-8

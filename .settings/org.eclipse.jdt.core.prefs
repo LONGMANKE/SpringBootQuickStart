@@ -1,9 +1,27 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
 org.eclipse.jdt.core.compiler.compliance=1.8
+=======
+<<<<<<< HEAD
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
+org.eclipse.jdt.core.compiler.compliance=1.6
+=======
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+org.eclipse.jdt.core.compiler.compliance=1.8
+>>>>>>> 703ecf4 (update)
+>>>>>>> 309cd77 (running a simple springboot project)
 org.eclipse.jdt.core.compiler.problem.enablePreviewFeatures=disabled
 org.eclipse.jdt.core.compiler.problem.forbiddenReference=warning
 org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures=ignore
 org.eclipse.jdt.core.compiler.processAnnotations=disabled
 org.eclipse.jdt.core.compiler.release=disabled
+<<<<<<< HEAD
 org.eclipse.jdt.core.compiler.source=1.8
+=======
+<<<<<<< HEAD
+org.eclipse.jdt.core.compiler.source=1.6
+=======
+org.eclipse.jdt.core.compiler.source=1.8
+>>>>>>> 703ecf4 (update)
+>>>>>>> 309cd77 (running a simple springboot project)
